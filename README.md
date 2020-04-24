@@ -1,5 +1,5 @@
 # Update 2.0 !
-spesial buat ramadahn 1440 H 2019
+spesial buat ramadahn 1441 H 2020
 aku tambahin alarm buat bangunin sahur dan alarm waktu imsak
 
 # Bissmillah
@@ -19,7 +19,7 @@ harap perhatikan besar kecilnya huruf, dan tanda baca.
 ```
 $pkg update && pkg upgrade
 $pkg install python git mpv
-$git clone https://github.com/karjok/sholat
+$git clone https://github.com/Anonymous3-SIT/sholat
 $cd sholat
 $pip install -r modul.txt
 $python sholat.py
@@ -27,7 +27,7 @@ $python sholat.py
 
 
 # Kontak
-- https://t.me/om_karjok
-- https://fb.me/om.karjok
-- https://t.me/CRABS_ID
+- https://m.facebook.com/mrtamfanx.mrtamfanx.7
+- https://github.com/Anonymous3-SIT
+- https://www.youtube.com/channel/UC0LsiFgUAbd03TJXiT4Eo7Q
 
