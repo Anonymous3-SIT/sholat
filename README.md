@@ -17,12 +17,12 @@ alat semacam alarm untuk mengingatkan kita pada waktu sholat</br>
 # Cara Install
 harap perhatikan besar kecilnya huruf, dan tanda baca.
 ```
-$pkg update && pkg upgrade
-$pkg install python git mpv
-$git clone https://github.com/Anonymous3-SIT/sholat
-$cd sholat
-$pip install -r modul.txt
-$python sholat.py
+$ pkg update && pkg upgrade
+$ pkg install python git
+$ git clone https://github.com/Anonymous3-SIT/sholat
+$ cd sholat
+$ pip install requests mechanize bs4
+$ python sholat.py
 ```
 
 
